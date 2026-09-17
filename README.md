@@ -1,5 +1,6 @@
 # Python-DA-Assignment-1
 This assignment focuses on performig Data Analysis using Numpy arrays for numerical computations and Pandas Series,DataFrame for data manipulation and analysis.
+
 #Project Overview:
 This project focuses on performing Data Analysis using NumPy and Pandas.It demonstrates fundamental techniques for numerical computation,data manipulation,filtering,indexing,slicing and aggregation using temperature and transaction datasets.
 
